@@ -7,7 +7,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-#generate random, lienear looking data
+#generate random, linear looking data
 X = 3* np.random.rand(100,1)
 #adding gaussian noise to the graph
 # y = 6 + 2x + gaussian noise

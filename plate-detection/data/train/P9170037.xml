@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>P9170037.jpg</filename>
+	<path>/home/lugges/MachineLearning/plate-detection/data/P9170037.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>580</ymin>
+			<xmax>1013</xmax>
+			<ymax>764</ymax>
+		</bndbox>
+	</object>
+</annotation>

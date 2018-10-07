@@ -31,7 +31,7 @@ if StrictVersion(tf.__version__) < StrictVersion('1.9.0'):
     raise ImportError(
         'Please upgrade your TensorFlow installation to v1.9.* or later!')
 # What model to download.
-MODEL_NAME = 'plate_inference_graph'
+MODEL_NAME = 'exported_model'
 
 # Path to frozen detection graph. This is the actual model that is used for the object detection.
 PATH_TO_FROZEN_GRAPH = MODEL_NAME + '/frozen_inference_graph.pb'

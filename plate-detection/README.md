@@ -14,9 +14,13 @@ The model will then detect license plates in the given images and add a box with
 ![sample3](https://github.com/Lugges991/MachineLearning/blob/master/plate-detection/sample3.png)
 ![sample4](https://github.com/Lugges991/MachineLearning/blob/master/plate-detection/sample4.png)
 
-
+# Notes
+If you change the images in the test_images directory, make sure to use thenaming convention inplace: image{image-nr}.jpg
+Also update the for loop either in plate-detection.py or in objec-detection-tutorial.py depending on what you want to execute.
 
 .
+
 .
+
 .
 shout outs to ![@datitran](https://github.com/datitran) for the xml_to_csv.py and generate_tfrecords.py! I know Im a lazy copy cat ;))
